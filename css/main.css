@@ -1,3 +1,7 @@
 #left_header_text  {
   font-family: cursive;
 }
+
+html body {
+  background-color: #303030;
+}
